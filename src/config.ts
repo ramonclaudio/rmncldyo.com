@@ -1,10 +1,10 @@
 export const SITE = {
-  website: "https://rmncldyo.vercel.app",
-  author: "RMNCLDYO",
-  profile: "https://rmncldyo.vercel.app",
+  website: "https://ramonclaudio.vercel.app",
+  author: "Ray",
+  profile: "https://ramonclaudio.vercel.app",
   desc: "Software Engineer",
-  title: "RMNCLDYO",
-  ogImage: "rmncldyo-og.jpg",
+  title: "Ray",
+  ogImage: "ramonclaudio-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 20,
   postPerPage: 20,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/rmncldyo/rmncldyo.com/edit/main/",
+    url: "https://github.com/ramonclaudio/ramonclaudio.com/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
